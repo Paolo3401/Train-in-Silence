@@ -1,0 +1,5 @@
+[project]
+name = "train-in-silence"
+version = "0.1.0"
+description = "The first Task-Aware MCP server and automated VRAM calculator for LLM fine-tuning. Instantly snipe the cheapest, fastest GPUs across 10+ cloud providers."
+requires-python = ">=3.10"
